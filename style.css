@@ -1,0 +1,152 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.main {
+    background-image: url("https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-store-hero-image-bg.jpg");
+    height:700px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 500px; */
+   
+}
+
+.main h1{
+    margin-top: 260px;
+}
+ .text{
+    font-size:x-large;
+    display: flex;
+    height:150px;
+    width: 400px;
+    /* border:solid black; */
+    box-sizing: content-box;
+    color: white;
+    margin-top: 120px;
+    margin-left:180px;
+}
+.text_2{
+    /* border:solid black; */
+    height: 300px;
+    width: 700px;
+    color: white;
+    margin-top: 350px;
+    margin-right: 600px;
+    } 
+     .p{
+        margin-top: 220px;
+        color: white;
+        margin-left: 170px;
+        
+    }
+.textalign{
+    border: solid black;
+}
+.main_2{
+    display: flex;
+    justify-content: space-between;
+     flex-direction: row;
+    
+    }
+.hr{
+    background-color: black;
+    height: 1px;    
+}
+.part_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.about{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+.bt2{
+    margin-left: 50px;
+    height: 50px;
+    width: 120px;
+    /* margin-bottom: 100px; */
+    
+}
+
+.bt1{
+    /* margin-left: 200px; */
+    height: 50px;
+    width: 120px;
+    
+}
+.sel{
+ /* font-size: xx-large; */
+ font-family: 'Montserrat', sans-serif;;
+ font-weight: 700;
+ font-size: 40px;
+}
+/* .mbr{
+    margin-left: 100px;
+} */
+
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.our{
+    text-align: center;
+    margin-top: 0px;
+}
+.lock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.CSS{
+    order: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.read{
+    margin-top: 20px;
+}
